@@ -71,8 +71,8 @@ Before submitting, make sure:
 * [x] Website is functional
 * [x] Website is responsive
 * [x] Source code is pushed to this repository
-* [ ] Live demo link works
-* [ ] Original website URL is included
+* [x] Live demo link works
+* [x] Original website URL is included
 * [x] Project description is complete
 
 ---
