@@ -4,35 +4,18 @@ Please fill in the details below before submitting your project.
 
 ## Team Details
 
-**Team Name:**
-`Your Team Name`
+**Team Name: Nothing**
 
-**Team Size:**
-`1 / 2`
+
+**Team Size: 1**
 
 ### Participant 1
 
-**Name:**
-`Your Name`
+**Name: Irin Moncy**
 
-**Email:**
-`your@email.com`
+**Email: irinmoncy@gmail.com**
 
-**GitHub:**
-`https://github.com/username`
-
-### Participant 2
-
-**Name:**
-`Your Name`
-
-**Email:**
-`your@email.com`
-
-**GitHub:**
-`https://github.com/username`
-
-> If participating solo, leave Participant 2 blank.
+**GitHub: https://github.com/irin-moncy**
 
 ---
 
@@ -41,21 +24,20 @@ Please fill in the details below before submitting your project.
 ### Original Website
 
 **Website Name:**
-`Name of the website`
+TinkerHub CET
 
 **Original Website URL:**
-`https://example.com`
+https://tinkerhubcet.github.io/
 
 ### Your Redesign
 
-**Project Name:**
-`Name of your redesign`
+**Project Name: TinkerHub CET**
 
-**Live Website:**
-`https://your-deployment-url.com`
+**Live Website: **
+https://website-re-redesign.vercel.app/
 
-**Repository:**
-`https://github.com/username/repository`
+**Repository: **
+https://github.com/irin-moncy/Website-Re-Design
 
 ---
 
@@ -63,32 +45,24 @@ Please fill in the details below before submitting your project.
 
 ### What did you change?
 
-Briefly describe the major changes you made to the original website.
-
-> Example:
-> Redesigned the navigation, improved the information hierarchy, simplified the booking flow, and introduced a responsive mobile-first layout.
+I redesigned the website to give it a **modern, creative, and student-friendly look** that better represents the TinkerHub CET community. The redesign includes a structured navigation bar, an attractive hero section, colorful information cards, event and project sections, a community history timeline, team profiles, and a contact section. I also added **responsive design, hover effects, smooth scrolling, and a terminal-style visual element** to make the website more interactive and engaging.
 
 ### Why did you make these changes?
+The original website had a simple design and did not fully represent the creative and experimental nature of the TinkerHub CET community. I redesigned the website to make it more modern, creative, colorful, and user-friendly. The redesign includes clear sections for the community, events, projects, history, team, and contact information. I also added responsive design so that the website works well on desktop, tablet, and mobile devices.
 
-Briefly explain the problems you identified in the original website and how your redesign addresses them.
 
 ### Key Features
 
-List the main features implemented in your redesign.
-
-* Feature 1
-* Feature 2
-* Feature 3
+-Modern and creative website design
+-Responsive layout for desktop, tablet, and mobile
+-Simple navigation bar with smooth scrolling
+-Creative hero section with terminal-style design
+-About section with colorful cards
 
 ### Technology Used
 
-List the technologies, frameworks, and tools used.
+-HTML / CSS 
 
-* HTML / CSS / JavaScript
-* React
-* Tailwind CSS
-* Figma
-* etc.
 
 ---
 
@@ -96,13 +70,13 @@ List the technologies, frameworks, and tools used.
 
 Before submitting, make sure:
 
-* [ ] Team information is complete
-* [ ] Website is functional
-* [ ] Website is responsive
-* [ ] Source code is pushed to this repository
+* [x] Team information is complete
+* [x] Website is functional
+* [x] Website is responsive
+* [x] Source code is pushed to this repository
 * [ ] Live demo link works
 * [ ] Original website URL is included
-* [ ] Project description is complete
+* [x] Project description is complete
 
 ---
 
