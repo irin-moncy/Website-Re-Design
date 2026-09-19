@@ -26,18 +26,15 @@ Please fill in the details below before submitting your project.
 **Website Name:**
 TinkerHub CET
 
-**Original Website URL:**
-https://tinkerhubcet.github.io/
+**Original Website URL:https://tinkerhubcet.github.io/**
 
 ### Your Redesign
 
 **Project Name: TinkerHub CET**
 
-**Live Website: **
-https://website-re-redesign.vercel.app/
+**Live Website: https://website-re-redesign.vercel.app/**
 
-**Repository: **
-https://github.com/irin-moncy/Website-Re-Design
+**Repository: https://github.com/irin-moncy/Website-Re-Design**
 
 ---
 
